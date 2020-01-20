@@ -1,0 +1,14 @@
+{
+  "name": "employserver",
+  "version": "1.0.0",
+  "description": "数据库请求api\u001b[D\u001b[D\u001b[D模拟",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch employDB.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}

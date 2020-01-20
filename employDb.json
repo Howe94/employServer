@@ -1,0 +1,1085 @@
+{
+    "classInformation": [
+        {
+            "id": "1",
+            "classNo": "1615432",
+            "className": "计算机科学与技术3版",
+            "professionNo": "161544",
+            "professionName": "计算机科学与技术",
+            "classNum": "54",
+            "monitor": "豪宗超",
+            "monitorTel": "13229451650"
+        }
+    ],
+    "studentInformation": [
+        {
+            "id": "1",
+            "stuNo": "161543218",
+            "stuName": "豪宗超",
+            "sex": "男",
+            "idCard": "440882199707243710",
+            "department": "互联网金融与信息工程学院",
+            "profession": "计算机科学与技术",
+            "education": "本科",
+            "politicalStatus": "团员",
+            "biogenicLand": "生源地",
+            "graduationTime": "2020年6月1日",
+            "stuTel": "13229451649",
+            "familyContact": "豪宗高",
+            "homeTel": "13536436745",
+            "homeAddress": "广东省湛江市雷州市企水镇田园村"
+        },
+        {
+            "id": "2",
+            "stuNo": "161543201",
+            "stuName": "曹荣武",
+            "sex": "女",
+            "idCard": "440882199707243712",
+            "department": "互联网金融与信息工程学院",
+            "profession": "计算机科学与技术",
+            "education": "本科",
+            "politicalStatus": "团员",
+            "biogenicLand": "生源地",
+            "graduationTime": "2020年6月2日",
+            "stuTel": "13229451650",
+            "familyContact": "曹宗高",
+            "homeTel": "13536436745",
+            "homeAddress": "广东省湛江市雷州市企水镇田园村"
+        }
+    ],
+    "unitInformation": [
+        {
+            "id": "1",
+            "unitType": "互联网",
+            "unitName": "广州明动软件股份有限公司",
+            "unifieSocialCreditCode": "914401017695297475",
+            "industryUnit": "软件和信息技术服务业",
+            "unitArea": "广东省广州市市辖区",
+            "unitAddress": "广州市天河区白沙水路89号1-2层",
+            "unitContactor": "肖兰花",
+            "unitTel": "020-2564856",
+            "unitEmail": "minston@minstone.com",
+            "unitPostcode": "524200"
+        },
+        {
+            "id": "2",
+            "unitType": "互联网",
+            "unitName": "广州明动软件股份有限公司",
+            "unifieSocialCreditCode": " 914401017695297475",
+            "industryUnit": "软件和信息技术服务业",
+            "unitArea": "广东省广州市市辖区",
+            "unitAddress": "广州市天河区白沙水路89号1-3层",
+            "unitContactor": "肖兰花",
+            "unitTel": "020-2564857",
+            "unitEmail": "minston@minstone.com",
+            "unitPostcode": "524201"
+        }
+    ],
+    "stuEmployInformation": [
+        {
+            "id": "1",
+            "stuNo": "161543218",
+            "stuName": "豪宗超",
+            "unitName": "广州明动软件股份有限公司",
+            "unifieSocialCreditCode": " 914401017695297475",
+            "jobName": "前端开发工程师",
+            "occupationalType": "软件开发",
+            "pay": "2800",
+            "contractTime": "2019年9月1日",
+            "probation": "6个月",
+            "probationStartTime": "2019年9月1日",
+            "WorkingPlace": "广州市天河区白沙水路89号1-2层",
+            "PAERelevance": "1",
+            "isEmployDifficulties": "0",
+            "isEmploy": "1"
+        },
+        {
+            "id": "2",
+            "stuNo": "161543201",
+            "stuName": "曹荣武",
+            "unitName": "",
+            "unifieSocialCreditCode": "",
+            "jobName": "",
+            "occupationalType": "",
+            "pay": "",
+            "contractTime": "",
+            "probation": "",
+            "probationStartTime": "",
+            "WorkingPlace": "",
+            "PAERelevance": "",
+            "isEmployDifficulties": "1",
+            "isEmploy": "0"
+        }
+    ],
+    "counselorInformation": [
+        {
+            "id": "1",
+            "counselorId": "165432",
+            "counselorName": "陈兴",
+            "counselorTel": "138001380000",
+            "leadClass": "161543&161541&161549"
+        },
+        {
+            "id": "2",
+            "counselorId": "165432",
+            "counselorName": "陈兴",
+            "counselorTel": "138001380000",
+            "leadClass": "161543&161541&161550"
+        }
+    ],
+    "EmploymentStylePre": [
+        {
+            "id": "1",
+            "stuNo": "1415432",
+            "stuName": "何利",
+            "graduationYear": "2019",
+            "jobTitle": "项目经理",
+            "motto": "阿森纳骄傲开始",
+            "picurl": "http://images/icon/1.png"
+        },
+        {
+            "id": "1",
+            "stuNo": "1415432",
+            "stuName": "何利",
+            "graduationYear": "2020",
+            "jobTitle": "项目经理",
+            "motto": "阿森纳骄傲开始",
+            "picurl": "http://images/icon/2.png"
+        }
+    ],
+    "jobInformation": [
+        {
+            "id": "1",
+            "employInforNo": "A101",
+            "corporateName": "\"广州明动软件股份有限公司\"",
+            "companyProfile": "广州明动软件股份有限公司是国内电子政务领域综合服务提供商，主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+            "recruitmentPost": "软件开发-后台开发方向",
+            "jobRequirements": "\"1、4年以上Java开发经验，本科计算机相关专业；\"",
+            "WorkingPlace": "广州市天河区白沙水路89号1-2层",
+            "recruitingNumbers": "3",
+            "recruitingTime": "2019年9月1日",
+            "recruitingAddress": "学仙阁2楼"
+        },
+        {
+            "id": "2",
+            "employInforNo": "A102",
+            "corporateName": "\"广州明动软件股份有限公司\"",
+            "companyProfile": "广州明动软件股份有限公司是国内电子政务领域综合服务提供商，主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+            "recruitmentPost": "软件开发-后台开发方向",
+            "jobRequirements": "\"1、5年以上Java开发经验，本科计算机相关专业；\"",
+            "WorkingPlace": "广州市天河区白沙水路89号1-3层",
+            "recruitingNumbers": "4",
+            "recruitingTime": "2019年9月2日",
+            "recruitingAddress": "学仙阁3楼"
+        }
+    ],
+    "getTeamProInfo": {
+        "status": "200",
+        "desc": "处理成功",
+        "data": [
+            {
+                "id": "1",
+                "pro_id": "A101",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A11",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "2",
+                "pro_id": "A102",
+                "pro_name": "找团队系统[够了]",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 6,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A12",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队各级政府部门提供电子政务解决方案各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成开发、政府信息化咨询、系统集成团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "3",
+                "pro_id": "A103",
+                "pro_name": "找团队系统[够了]",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 6,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A13",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "4",
+                "pro_id": "A104",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A14",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "5",
+                "pro_id": "A105",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A15",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "6",
+                "pro_id": "A106",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A16",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "7",
+                "pro_id": "A107",
+                "pro_name": "找团队系统[够了]",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 6,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A17",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "8",
+                "pro_id": "A108",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A18",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "9",
+                "pro_id": "A109",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A19",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "10",
+                "pro_id": "A110",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A20",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "31",
+                "pro_id": "A113",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A23",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            },
+            {
+                "id": "24",
+                "pro_id": "A124",
+                "pro_name": "找团队系统",
+                "pro_describe": "主要面向各级政府部门提供电子政务解决方案开发、政府信息化咨询、系统集成以及运营维护服务。",
+                "pro_start_date": "2019-12-22",
+                "pro_end_date": "2020-03-12",
+                "pro_status": "false",
+                "pro_type": "技术类",
+                "pro_nature": "个人项目",
+                "pro_num": "4",
+                "pro_current_num": 5,
+                "pro_limited_num": 6,
+                "see_num": "655",
+                "staffList": "vue | spring | java等",
+                "staff": [
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    },
+                    {
+                        "staffName": "具备自学能力，性格活泼，积极参加设计系统的讨论中"
+                    }
+                ],
+                "team_id": "A24",
+                "team_name": "CRW对撒开了",
+                "leader_name": "队长名称",
+                "team_describe": "团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述团队描述",
+                "university": "广东金融学院"
+            }
+        ]
+    },
+    "getUniversity": {
+        "status": "200",
+        "desc": "处理成功",
+        "data": [
+            {
+                "id": "1",
+                "university": "广东金融学院",
+                "college": "互联网金融与信息工程学院",
+                "profession": "计算机科学与技术"
+            },
+            {
+                "id": "2",
+                "university": "广东财经学院",
+                "college": "互联网金融与信息工程学院",
+                "profession": "计算机科学与技术"
+            },
+            {
+                "id": "3",
+                "university": "广州学院",
+                "college": "互联网金融与信息工程学院",
+                "profession": "计算机科学与技术"
+            },
+            {
+                "id": "4",
+                "university": "中山大学",
+                "college": "互联网金融与信息工程学院",
+                "profession": "计算机科学与技术"
+            },
+            {
+                "id": "5",
+                "university": "华南师范大学",
+                "college": "互联网金融与信息工程学院",
+                "profession": "计算机科学与技术"
+            },
+            {
+                "id": "6",
+                "university": "河南贵州学院",
+                "college": "互联网金融与信息工程学院",
+                "profession": "计算机科学与技术"
+            }
+        ]
+    },
+    "getProType": {
+        "status": "200",
+        "desc": "处理成功",
+        "data": [
+            {
+                "id": "1",
+                "key": "T11",
+                "value": "技术类"
+            },
+            {
+                "id": "2",
+                "key": "T12",
+                "value": "活动类"
+            },
+            {
+                "id": "3",
+                "key": "T13",
+                "value": "机械类"
+            },
+            {
+                "id": "4",
+                "key": "T14",
+                "value": "业余类"
+            }
+        ]
+    },
+    "getMyTeamList": {
+        "status": "200",
+        "desc": "处理成功[通过用户ID获取]",
+        "data": [
+            {
+                "id": "1",
+                "team_id": "T11",
+                "team_name": "我的团队1",
+                "team_describe": "看市场就看出卡机看闪存卡骄傲的是超",
+                "team_number": "5",
+                "is_leader": true
+            },
+            {
+                "id": "2",
+                "team_id": "T12",
+                "team_name": "参加的团队1",
+                "team_describe": "看市场就看出卡机看闪存卡骄傲的是超",
+                "team_number": "5",
+                "is_leader": false
+            },
+            {
+                "id": "3",
+                "team_id": "T13",
+                "team_name": "我的团队3",
+                "team_describe": "看市场就看出卡机看闪存卡骄傲的是超",
+                "team_number": "5",
+                "is_leader": true
+            },
+            {
+                "id": "4",
+                "team_id": "T14",
+                "team_name": "我的团队4",
+                "team_describe": "看市场就看出卡机看闪存卡骄傲的是超",
+                "team_number": "5",
+                "is_leader": true
+            },
+            {
+                "id": "5",
+                "team_id": "T15",
+                "team_name": "参加的团队2",
+                "team_describe": "看市场就看出卡机看闪存卡骄傲的是超",
+                "team_number": "5",
+                "is_leader": false
+            }
+        ]
+    },
+    "getMyProList": {
+        "status": "200",
+        "desc": "处理成功[通过用户ID和团队ID获取该团队下的项目列表]",
+        "data": [
+            {
+                "id": "1",
+                "pro_id": "X1",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": false,
+                "team_id": "T1",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "2",
+                "pro_id": "X2",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": true,
+                "team_id": "T2",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "3",
+                "pro_id": "X3",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": false,
+                "team_id": "T3",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "4",
+                "pro_id": "X4",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": true,
+                "team_id": "T4",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "5",
+                "pro_id": "X5",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": false,
+                "team_id": "T5",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "6",
+                "pro_id": "X6",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": false,
+                "team_id": "T6",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "7",
+                "pro_id": "X7",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": true,
+                "team_id": "T7",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "8",
+                "pro_id": "X8",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": false,
+                "team_id": "T8",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "9",
+                "pro_id": "X9",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": true,
+                "team_id": "T9",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            },
+            {
+                "id": "10",
+                "pro_id": "X10",
+                "pro_name": "组队系统",
+                "leader_name": "草荣威",
+                "pro_describe": "十多年妇科男科IC",
+                "pro_date": "2019-12-22",
+                "pro_start_time": "2019-12-22",
+                "pro_end_time": "2020-3-3",
+                "pro_status": false,
+                "team_id": "T10",
+                "team_name": "CRW队",
+                "pro_type": "技术类",
+                "pro_current_num": "3",
+                "pro_limited_num": "5",
+                "see_num": "233",
+                "staff": "二万人团购韩国"
+            }
+        ]
+    },
+    "getMyTaskList": {
+        "status": "200",
+        "desc": "处理成功[通过用户ID获取该用户的任务列表]",
+        "data": [
+            {
+                "id": "1",
+                "task_start_time": "2019-12-24",
+                "task_end_time": "2020-03-09",
+                "task_content": "安塞此乃擦不擦是你家开的处方内外爱上查看此阿奎那才u成本奶茶爱词霸俗称业务部！",
+                "task_status": 1
+            },
+            {
+                "id": "2",
+                "task_start_time": "2019-12-24",
+                "task_end_time": "2020-03-09",
+                "task_content": "安塞此乃擦不擦是你家开的处方内外爱上查看此阿奎那才u成本奶茶爱词霸俗称业务部！",
+                "task_status": 2
+            },
+            {
+                "id": "3",
+                "task_start_time": "2019-12-24",
+                "task_end_time": "2020-03-09",
+                "task_content": "安塞此乃擦不擦是你家开的处方内外爱上查看此阿奎那才u成本奶茶爱词霸俗称业务部！",
+                "task_status": 4
+            },
+            {
+                "id": "4",
+                "task_start_time": "2019-12-24",
+                "task_end_time": "2020-03-09",
+                "task_content": "安塞此乃擦不擦是你家开的处方内外爱上查看此阿奎那才u成本奶茶爱词霸俗称业务部！",
+                "task_status": 2
+            },
+            {
+                "id": "5",
+                "task_start_time": "2019-12-24",
+                "task_end_time": "2020-03-09",
+                "task_content": "安塞此乃擦不擦是你家开的处方内外爱上查看此阿奎那才u成本奶茶爱词霸俗称业务部！",
+                "task_status": 1
+            },
+            {
+                "id": "6",
+                "task_start_time": "2019-12-24",
+                "task_end_time": "2020-03-09",
+                "task_content": "安塞此乃擦不擦是你家开的处方内外爱上查看此阿奎那才u成本奶茶爱词霸俗称业务部！",
+                "task_status": 3
+            },
+            {
+                "id": "7",
+                "task_start_time": "2019-12-24",
+                "task_end_time": "2020-03-09",
+                "task_content": "安塞此乃擦不擦是你家开的处方内外爱上查看此阿奎那才u成本奶茶爱词霸俗称业务部！",
+                "task_status": 1
+            },
+            {
+                "id": "8",
+                "task_start_time": "2019-12-24",
+                "task_end_time": "2020-03-09",
+                "task_content": "安塞此乃擦不擦是你家开的处方内外爱上查看此阿奎那才u成本奶茶爱词霸俗称业务部！",
+                "task_status": 4
+            }
+        ]
+    },
+    "getTaskList": {
+        "status": "200",
+        "desc": "处理成功[通过项目ID获取该项目的任务列表]",
+        "data": [
+            {
+                "id":"1",
+                "task_id":"RT1",
+                "task_start_time":"2019-09-12",
+                "task_end_time":"2020-11-21",
+                "task_content":"LJ曹荣五",
+                "task_charger":"曹荣武",
+                "sub_task_id":"R1",
+                "task_status":"1"
+            },
+            {
+                "id":"2",
+                "task_id":"RT2",
+                "task_start_time":"2019-09-12",
+                "task_end_time":"2020-11-21",
+                "task_content":"LJ曹荣五时代的",
+                "task_charger":"曹荣武",
+                "sub_task_id":"R2",
+                "task_status":"1"
+            },
+            {
+                "id":"3",
+                "task_id":"RT3",
+                "task_start_time":"2019-09-12",
+                "task_end_time":"2020-11-21",
+                "task_content":"L飒飒J曹荣五",
+                "task_charger":"曹荣武",
+                "sub_task_id":"R3",
+                "task_status":"4"
+            },{
+                "id":"4",
+                "task_id":"RT4",
+                "task_start_time":"2019-09-12",
+                "task_end_time":"2020-11-21",
+                "task_content":"LJ曹荣飒飒五",
+                "task_charger":"曹荣武",
+                "sub_task_id":"R4",
+                "task_status":"3"
+            },
+            {
+                "id":"5",
+                "task_id":"RT5",
+                "task_start_time":"2019-09-12",
+                "task_end_time":"2020-11-21",
+                "task_content":"LJ曹飒飒荣五",
+                "task_charger":"曹荣武",
+                "sub_task_id":"R5",
+                "task_status":"2"
+            },
+            {
+                "id":"6",
+                "task_id":"RT6",
+                "task_start_time":"2019-09-12",
+                "task_end_time":"2020-11-21",
+                "task_content":"LJ曹荣五非官方",
+                "task_charger":"曹荣武",
+                "sub_task_id":"R6",
+                "task_status":"2"
+            },
+            {
+                "id":"7",
+                "task_id":"RT7",
+                "task_start_time":"2019-09-12",
+                "task_end_time":"2020-11-21",
+                "task_content":"LJ曹荣五撒旦",
+                "task_charger":"曹荣武",
+                "sub_task_id":"R7",
+                "task_status":"4"
+            },
+            {
+                "id":"8",
+                "task_id":"RT8",
+                "task_start_time":"2019-09-12",
+                "task_end_time":"2020-11-21",
+                "task_content":"LJ曹荣五而我让他",
+                "task_charger":"曹荣武",
+                "sub_task_id":"R8",
+                "task_status":"2"
+            }
+        ]
+    }
+}
