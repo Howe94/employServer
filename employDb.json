@@ -1079,14 +1079,195 @@
                 "taskCharger":"曹荣武",
                 "subTask_id":"R8",
                 "taskStatus":"2"
+            },
+            {
+                "id":"1",
+                "taskId":"RT1",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五",
+                "taskCharger":"曹荣武",
+                "subTaskId":"R1",
+                "taskStatus":"1"
+            },
+            {
+                "id":"2",
+                "taskId":"RT2",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五时代的",
+                "taskCharger":"曹荣武",
+                "subTaskId":"R2",
+                "taskStatus":"1"
+            },
+            {
+                "id":"3",
+                "taskId":"RT3",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"L飒飒J曹荣五",
+                "taskCharger":"曹荣武",
+                "subTaskId":"R3",
+                "taskStatus":"4"
+            },{
+                "id":"4",
+                "taskId":"RT4",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣飒飒五",
+                "taskCharger":"曹荣武",
+                "subTaskId":"R4",
+                "taskStatus":"3"
+            },
+            {
+                "id":"5",
+                "task_id":"RT5",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹飒飒荣五",
+                "taskCharger":"曹荣武",
+                "subTask_id":"R5",
+                "taskStatus":"2"
+            },
+            {
+                "id":"6",
+                "task_id":"RT6",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五非官方",
+                "taskCharger":"曹荣武",
+                "subTask_id":"R6",
+                "taskStatus":"2"
+            },
+            {
+                "id":"7",
+                "task_id":"RT7",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五撒旦",
+                "taskCharger":"曹荣武",
+                "subTask_id":"R7",
+                "taskStatus":"4"
+            },
+            {
+                "id":"8",
+                "task_id":"RT8",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五而我让他",
+                "taskCharger":"曹荣武",
+                "subTask_id":"R8",
+                "taskStatus":"2"
+            },
+            {
+                "id":"1",
+                "taskId":"RT1",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五",
+                "taskCharger":"曹荣武",
+                "subTaskId":"R1",
+                "taskStatus":"1"
+            },
+            {
+                "id":"2",
+                "taskId":"RT2",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五时代的",
+                "taskCharger":"曹荣武",
+                "subTaskId":"R2",
+                "taskStatus":"1"
+            },
+            {
+                "id":"3",
+                "taskId":"RT3",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"L飒飒J曹荣五",
+                "taskCharger":"曹荣武",
+                "subTaskId":"R3",
+                "taskStatus":"4"
+            },{
+                "id":"4",
+                "taskId":"RT4",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣飒飒五",
+                "taskCharger":"曹荣武",
+                "subTaskId":"R4",
+                "taskStatus":"3"
+            },
+            {
+                "id":"5",
+                "task_id":"RT5",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹飒飒荣五",
+                "taskCharger":"曹荣武",
+                "subTask_id":"R5",
+                "taskStatus":"2"
+            },
+            {
+                "id":"6",
+                "task_id":"RT6",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五非官方",
+                "taskCharger":"曹荣武",
+                "subTask_id":"R6",
+                "taskStatus":"2"
+            },
+            {
+                "id":"7",
+                "task_id":"RT7",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五撒旦",
+                "taskCharger":"曹荣武",
+                "subTask_id":"R7",
+                "taskStatus":"4"
+            },
+            {
+                "id":"8",
+                "task_id":"RT8",
+                "taskStartTime":"2019-09-12",
+                "taskEndTime":"2020-11-21",
+                "taskContent":"LJ曹荣五而我让他",
+                "taskCharger":"曹荣武",
+                "subTask_id":"R8",
+                "taskStatus":"2"
             }
         ]
     },
     "getMemberList": {
         "status": "200",
-        "desc": "处理成功[通过项目ID获取该项目的任务列表]",
+        "desc": "处理成功[通过团队ID获取该团队的成员列表]",
         "data": [
-
+            {
+                "id": "1",
+                "teamId": "T1",
+                "userId": "Y1",
+                "userName":"曹荣五"
+            },
+            {
+                "id": "2",
+                "teamId": "T2",
+                "userId": "Y2",
+                "userName":"曹荣六"
+            },
+            {
+                "id": "3",
+                "teamId": "T3",
+                "userId": "Y3",
+                "userName":"曹荣七"
+            },
+            {
+                "id": "4",
+                "teamId": "T4",
+                "userId": "Y4",
+                "userName":"曹荣八"
+            }
         ]
     }
 }
